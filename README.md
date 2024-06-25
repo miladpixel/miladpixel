@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miladpixel
 - 👀 I’m interested in samsung-android, computer science and aquascaping 🐟
 - 🌱 I’m currently working as a Quality Specialist @ MOIA and optimizing user management (e.g. authentication, customer profile, etc.) flows.
-- 💞️ I’m looking to collaborate on improving quality.
+- 💞️ I’m looking to collaborate on improving software quality.
 - 📫 How to reach me ...
 
 <!---
