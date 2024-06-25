@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miladpixel
 - 👀 I’m interested in computer science
-- 🌱 I’m currently working as a Quality Specialist and optimizing customer growth flows.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as a Quality Specialist in MOIA and optimizing user management flows.
+- 💞️ I’m looking to collaborate on improving quality.
 - 📫 How to reach me ...
 
 <!---
